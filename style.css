@@ -1,0 +1,223 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+
+h1 {
+    font-size: 55px;
+}
+
+.text-shadow {
+    text-shadow: 5px 5px 10px #000;
+}
+
+h3 {
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.top {
+    display: flex;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 0 500px #000;
+    text-align: center;
+    color: aliceblue;
+
+
+}
+
+.link-button1 {
+    text-decoration: none;
+    color: rgb(39, 24, 24);
+    font-weight: 600;
+    background-image: linear-gradient(rgb(255, 102, 0), rgb(201, 74, 74));
+    padding: 8px 30px;
+    border-radius: 6px;
+    box-shadow: 7px 7px 15px black;
+}
+
+
+.dtoday {
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.grey-text {
+    color: rgb(70, 68, 68);
+}
+
+.flex {
+    display: flex;
+    padding-right: 20px;
+}
+
+.tk {
+    font-size: 40px;
+    padding-left: 5%;
+    padding-right: 70%;
+    margin: 5px;
+
+}
+
+#amount {
+    width: 400px;
+    height: 38px;
+    background-color: rgba(211, 211, 211, 0.247);
+    background-size: 100*px;
+}
+
+.link-button3 {
+    text-decoration: none;
+    color: rgb(7, 4, 4);
+    font-weight: 600;
+    background-image: linear-gradient(rgb(255, 102, 0), rgb(201, 74, 74));
+    padding: 8px 30px;
+    border-radius: 9px;
+    box-shadow: 4px 4px 20px black;
+}
+
+.box {
+    display: flex;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.39);
+    background-size: 20px;
+    margin-left: 2%;
+    padding: 3%;
+    box-shadow: inset 5px 5px 10px gray;
+
+}
+
+.pay-now {
+    text-align: center;
+}
+
+.our-donate-plan {
+    text-align: center;
+    padding: 10%;
+}
+
+.middle {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+}
+
+#m1 {
+    background-color: rgba(255, 228, 196, 0.678);
+    padding: 5%;
+
+}
+
+#m2 {
+    background-color: rgba(122, 161, 150, 0.562);
+    padding: 5%;
+
+}
+
+#m3 {
+    background-color: rgba(182, 127, 163, 0.596);
+    padding: 5%;
+
+}
+
+.contribute1 {
+    display: flex;
+
+}
+
+.half {
+    width: 50%;
+    padding: 6%;
+}
+
+.half img {
+    width: 100%;
+    height: 100%;
+}
+
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(255, 153, 0), rgb(248, 192, 9));
+    padding: 8px 30px;
+    border-radius: 6px;
+}
+
+.contribute2 {
+    display: flex;
+
+}
+
+#red {
+    color: rgb(231, 144, 13);
+}
+
+.half {
+    width: 50%;
+    padding: 6%;
+}
+
+.half img {
+    width: 100%;
+    height: 100%;
+}
+
+.end-para {
+    text-align: center;
+    margin: 10% 20%;
+}
+
+#email {
+    width: 400px;
+    height: 38px;
+    background-color: rgba(211, 211, 211, 0.603);
+    background-size: 100*px;
+
+}
+
+.link-button2 {
+    text-decoration: none;
+    color: rgb(7, 4, 4);
+    font-weight: 500;
+    background-image: linear-gradient(rgb(255, 102, 0), rgb(201, 74, 74));
+    padding: 8px 30px;
+
+}
+
+#bg {
+    background-color: rgba(255, 228, 196, 0.486);
+    padding: 60px 20px;
+}
+
+footer {
+    background-color: black;
+    background-position: bottom;
+
+}
+
+#footer {
+    font-family: fantasy;
+    font-weight: 400;
+    color: crimson;
+    font-style: italic;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 2%;
+    padding-bottom: 0%;
+}
+
+#footerp {
+    text-align: center;
+    color: antiquewhite;
+    padding-bottom: 2%;
+}
